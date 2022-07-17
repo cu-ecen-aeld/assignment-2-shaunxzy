@@ -1,0 +1,20 @@
+/home/shaunxu/clion-2020.3.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is Clang 10.0.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ - works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Generating ;/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/test/assignment1/Test_hello_Runner.c;/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/test/assignment1/Test_assignment_validate_Runner.c;/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/../student-test/assignment1/Test_validate_username_Runner.c from test/assignment1/Test_hello.c;test/assignment1/Test_assignment_validate.c;../student-test/assignment1/Test_validate_username.c
+-- Building executable including ;/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/test/assignment1/Test_hello_Runner.c;/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/test/assignment1/Test_assignment_validate_Runner.c;/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/../student-test/assignment1/Test_validate_username_Runner.c test/assignment1/Test_hello.c;test/assignment1/Test_assignment_validate.c;../student-test/assignment1/Test_validate_username.c and ../examples/autotest-validate/autotest-validate.c
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/cmake-build-debug

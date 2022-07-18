@@ -5,8 +5,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/examples/autotest-validate/autotest-validate.c" "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/cmake-build-debug/assignment-autotest/CMakeFiles/assignment-autotest.dir/__/examples/autotest-validate/autotest-validate.c.o"
-  "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/student-test/assignment1/Test_validate_username.c" "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/cmake-build-debug/assignment-autotest/CMakeFiles/assignment-autotest.dir/__/student-test/assignment1/Test_validate_username.c.o"
-  "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/student-test/assignment1/Test_validate_username_Runner.c" "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/cmake-build-debug/assignment-autotest/CMakeFiles/assignment-autotest.dir/__/student-test/assignment1/Test_validate_username_Runner.c.o"
   "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/test/assignment1/Test_assignment_validate.c" "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/cmake-build-debug/assignment-autotest/CMakeFiles/assignment-autotest.dir/test/assignment1/Test_assignment_validate.c.o"
   "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/test/assignment1/Test_assignment_validate_Runner.c" "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/cmake-build-debug/assignment-autotest/CMakeFiles/assignment-autotest.dir/test/assignment1/Test_assignment_validate_Runner.c.o"
   "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/test/assignment1/Test_hello.c" "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/cmake-build-debug/assignment-autotest/CMakeFiles/assignment-autotest.dir/test/assignment1/Test_hello.c.o"
@@ -26,7 +24,6 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
 set(CMAKE_MULTIPLE_OUTPUT_PAIRS
   "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/test/assignment1/Test_assignment_validate_Runner.c" "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/test/assignment1/Test_hello_Runner.c"
   "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/test/unity_runner.c" "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/test/assignment1/Test_hello_Runner.c"
-  "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/student-test/assignment1/Test_validate_username_Runner.c" "/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/test/assignment1/Test_hello_Runner.c"
   )
 
 

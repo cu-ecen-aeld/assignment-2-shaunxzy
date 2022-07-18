@@ -148,12 +148,6 @@
 		<Unit filename="/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/examples/autotest-validate/autotest-validate.h">
 			<Option target="assignment-autotest"/>
 		</Unit>
-		<Unit filename="/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/student-test/assignment1/Test_validate_username.c">
-			<Option target="assignment-autotest"/>
-		</Unit>
-		<Unit filename="/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/student-test/assignment1/Test_validate_username_Runner.c">
-			<Option target="assignment-autotest"/>
-		</Unit>
 		<Unit filename="/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

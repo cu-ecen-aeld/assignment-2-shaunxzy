@@ -218,60 +218,6 @@ __/examples/autotest-validate/autotest-validate.c.s:
 	cd /home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/cmake-build-debug && $(MAKE) $(MAKESILENT) -f assignment-autotest/CMakeFiles/assignment-autotest.dir/build.make assignment-autotest/CMakeFiles/assignment-autotest.dir/__/examples/autotest-validate/autotest-validate.c.s
 .PHONY : __/examples/autotest-validate/autotest-validate.c.s
 
-__/student-test/assignment1/Test_validate_username.o: __/student-test/assignment1/Test_validate_username.c.o
-
-.PHONY : __/student-test/assignment1/Test_validate_username.o
-
-# target to build an object file
-__/student-test/assignment1/Test_validate_username.c.o:
-	cd /home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/cmake-build-debug && $(MAKE) $(MAKESILENT) -f assignment-autotest/CMakeFiles/assignment-autotest.dir/build.make assignment-autotest/CMakeFiles/assignment-autotest.dir/__/student-test/assignment1/Test_validate_username.c.o
-.PHONY : __/student-test/assignment1/Test_validate_username.c.o
-
-__/student-test/assignment1/Test_validate_username.i: __/student-test/assignment1/Test_validate_username.c.i
-
-.PHONY : __/student-test/assignment1/Test_validate_username.i
-
-# target to preprocess a source file
-__/student-test/assignment1/Test_validate_username.c.i:
-	cd /home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/cmake-build-debug && $(MAKE) $(MAKESILENT) -f assignment-autotest/CMakeFiles/assignment-autotest.dir/build.make assignment-autotest/CMakeFiles/assignment-autotest.dir/__/student-test/assignment1/Test_validate_username.c.i
-.PHONY : __/student-test/assignment1/Test_validate_username.c.i
-
-__/student-test/assignment1/Test_validate_username.s: __/student-test/assignment1/Test_validate_username.c.s
-
-.PHONY : __/student-test/assignment1/Test_validate_username.s
-
-# target to generate assembly for a file
-__/student-test/assignment1/Test_validate_username.c.s:
-	cd /home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/cmake-build-debug && $(MAKE) $(MAKESILENT) -f assignment-autotest/CMakeFiles/assignment-autotest.dir/build.make assignment-autotest/CMakeFiles/assignment-autotest.dir/__/student-test/assignment1/Test_validate_username.c.s
-.PHONY : __/student-test/assignment1/Test_validate_username.c.s
-
-__/student-test/assignment1/Test_validate_username_Runner.o: __/student-test/assignment1/Test_validate_username_Runner.c.o
-
-.PHONY : __/student-test/assignment1/Test_validate_username_Runner.o
-
-# target to build an object file
-__/student-test/assignment1/Test_validate_username_Runner.c.o:
-	cd /home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/cmake-build-debug && $(MAKE) $(MAKESILENT) -f assignment-autotest/CMakeFiles/assignment-autotest.dir/build.make assignment-autotest/CMakeFiles/assignment-autotest.dir/__/student-test/assignment1/Test_validate_username_Runner.c.o
-.PHONY : __/student-test/assignment1/Test_validate_username_Runner.c.o
-
-__/student-test/assignment1/Test_validate_username_Runner.i: __/student-test/assignment1/Test_validate_username_Runner.c.i
-
-.PHONY : __/student-test/assignment1/Test_validate_username_Runner.i
-
-# target to preprocess a source file
-__/student-test/assignment1/Test_validate_username_Runner.c.i:
-	cd /home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/cmake-build-debug && $(MAKE) $(MAKESILENT) -f assignment-autotest/CMakeFiles/assignment-autotest.dir/build.make assignment-autotest/CMakeFiles/assignment-autotest.dir/__/student-test/assignment1/Test_validate_username_Runner.c.i
-.PHONY : __/student-test/assignment1/Test_validate_username_Runner.c.i
-
-__/student-test/assignment1/Test_validate_username_Runner.s: __/student-test/assignment1/Test_validate_username_Runner.c.s
-
-.PHONY : __/student-test/assignment1/Test_validate_username_Runner.s
-
-# target to generate assembly for a file
-__/student-test/assignment1/Test_validate_username_Runner.c.s:
-	cd /home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/cmake-build-debug && $(MAKE) $(MAKESILENT) -f assignment-autotest/CMakeFiles/assignment-autotest.dir/build.make assignment-autotest/CMakeFiles/assignment-autotest.dir/__/student-test/assignment1/Test_validate_username_Runner.c.s
-.PHONY : __/student-test/assignment1/Test_validate_username_Runner.c.s
-
 test/assignment1/Test_assignment_validate.o: test/assignment1/Test_assignment_validate.c.o
 
 .PHONY : test/assignment1/Test_assignment_validate.o
@@ -423,12 +369,6 @@ help:
 	@echo "... __/examples/autotest-validate/autotest-validate.o"
 	@echo "... __/examples/autotest-validate/autotest-validate.i"
 	@echo "... __/examples/autotest-validate/autotest-validate.s"
-	@echo "... __/student-test/assignment1/Test_validate_username.o"
-	@echo "... __/student-test/assignment1/Test_validate_username.i"
-	@echo "... __/student-test/assignment1/Test_validate_username.s"
-	@echo "... __/student-test/assignment1/Test_validate_username_Runner.o"
-	@echo "... __/student-test/assignment1/Test_validate_username_Runner.i"
-	@echo "... __/student-test/assignment1/Test_validate_username_Runner.s"
 	@echo "... test/assignment1/Test_assignment_validate.o"
 	@echo "... test/assignment1/Test_assignment_validate.i"
 	@echo "... test/assignment1/Test_assignment_validate.s"

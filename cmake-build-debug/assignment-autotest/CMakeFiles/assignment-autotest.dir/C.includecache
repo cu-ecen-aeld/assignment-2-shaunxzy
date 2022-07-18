@@ -62,6 +62,14 @@ ctype.h
 
 /home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/test/unity_runner.c
 
+/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/examples/autotest-validate/autotest-validate.c
+autotest-validate.h
+/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/examples/autotest-validate/autotest-validate.h
+stdbool.h
+-
+stdlib.h
+/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/examples/autotest-validate/stdlib.h
+
 /home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/examples/autotest-validate/autotest-validate.h
 stdbool.h
 -
@@ -69,18 +77,6 @@ stdio.h
 -
 string.h
 -
-
-/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/student-test/assignment1/Test_validate_username.c
-unity.h
-/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/student-test/assignment1/unity.h
-stdbool.h
--
-stdlib.h
--
-../../examples/autotest-validate/autotest-validate.h
-/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/examples/autotest-validate/autotest-validate.h
-../../assignment-autotest/test/assignment1/username-from-conf-file.h
-/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/assignment-autotest/test/assignment1/username-from-conf-file.h
 
 /home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/student-test/assignment1/Test_validate_username_Runner.c
 unity.h

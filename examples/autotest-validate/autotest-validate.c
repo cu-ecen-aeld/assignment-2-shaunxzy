@@ -31,7 +31,7 @@ const char *my_username()
 	FILE* fp;
 
 
-	fp = fopen("/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/finder-app/conf/username.txt",
+	fp = fopen("finder-app/conf/username.txt",
             "r");
 
 	int size;
@@ -41,7 +41,7 @@ const char *my_username()
 
     fclose(fp);
 
-    fp = fopen("/home/shaunxu/UIUC/linux-programming/assignment-1-shaunxzy/finder-app/conf/username.txt",
+    fp = fopen("finder-app/conf/username.txt",
                "r");
 
     char buff[size];
